@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "mocha --exit"
+  "test": "npx mocha --exit"
   },
   "keywords": [],
   "author": "",
